@@ -22,4 +22,8 @@ gpg --verify threatspire-honeypot-community-<version>-SHA256SUMS.txt.asc threats
 shasum -a 256 -c threatspire-honeypot-community-<version>-SHA256SUMS.txt
 ```
 
+## License
+
+The Software is free to use and may be redistributed unmodified under the terms in [LICENSE](LICENSE). The source code is proprietary.
+
 This repository hosts release binaries only. More at [threatspire.com](https://www.threatspire.com).
